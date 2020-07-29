@@ -9,6 +9,6 @@ Want to talk? Schedule a time with me on <a href="https://calendly.com/nikhil-vy
 
 ## Find me around the web <a href="https://github.com/sponsors/nikhil-vytla"></a>
 - Building the world 🌎 and engineering product accessibility at <a href="https://www.joinglimpse.com/">Glimpse</a> 🐕‍🦺
-- Developing new things on <a href="https://www.nikhilvytla.com">nikhilvytla.com</a> 🏂
+- Developing new things on <a href="https://nikhilvytla.com">nikhilvytla.com</a> 🏂
 - Advocating for international students on <a href="https://instagram.com/dearintlstudents">Instagram</a> 📸
 - Innovating hack culture for good at <a href="https://www.nikhilvytla.com">HackNC</a>, <a href="https://pearlhacks.com/">Pearl Hacks</a>, and HackDSC 🦙
