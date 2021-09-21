@@ -8,6 +8,6 @@ Welcome to my digital playground! I'm passionate about making open-source more a
 Want to talk? Schedule a time with me on <a href="https://calendly.com/nikhil-vytla">Calendly</a> or reach out at cnikhil [dot] vytla [at] gmail [dot] com.
 
 ## Find me around the web <a href="https://github.com/sponsors/nikhil-vytla"></a>
-- Building the world 🌎 and engineering developer productivity at [GitHub](https://github.com) 🐕‍🦺
+- Building the world 🌎 and engineering developer productivity at [GitHub](https://github.blog/2021-09-02-introducing-the-mlh-fellowship-github-externship-track/) 🐕‍🦺
 - Developing new things on [nikhilvytla.com](https://nikhilvytla.com) 🏂
 - Innovating hack culture for good at [HackNC](https://hacknc.com), [Pearl Hacks](https://pearlhacks.com), and HackDSC 🦙
