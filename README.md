@@ -8,6 +8,6 @@ Welcome to my digital playground! I'm passionate about making open-source more a
 Want to talk? Schedule a time with me on [Dayslice](https://dayslice.com/nikhil) or reach out at cnikhil.vytla [at] gmail.com.
 
 ## Find me around the web
-- Engineering developer productivity at [GitHub](https://github.blog/2021-09-02-introducing-the-mlh-fellowship-github-externship-track/) 🐕‍🦺
+- Engineering developer productivity at [MLH](https://github.blog/2021-09-02-introducing-the-mlh-fellowship-github-externship-track/) 🐕‍🦺
 - Developing new things on [nikhilvytla.com](https://nikhilvytla.com) 🏂
 - Innovating hack culture for good at [HackNC](https://hacknc.com), [Pearl Hacks](https://pearlhacks.com), and HackDSC 🦙
