@@ -13,7 +13,7 @@ Want to talk? Schedule a time with me on <a href="https://calendly.com/nikhil-vy
 - Innovating hack culture for good at [HackNC](https://hacknc.com), [Pearl Hacks](https://pearlhacks.com), and HackDSC 🦙
 - Social
   - [LinkedIn](https://www.linkedin.com/in/nikhil-vytla/)
-  - <a rel="me" href="https://hachyderm.io/@nikhil">Mastodon</a>
+  - <a rel="me" href="https://hachyderm.io/@nikhil">Mastodon</a> (not regularly checked)
   - [Polywork](https://www.polywork.com/nikhilvytla)
   - [Read.cv](https://read.cv/nikhilxvytla)
   - [Twitter](https://twitter.com/nikhilxvytla)
