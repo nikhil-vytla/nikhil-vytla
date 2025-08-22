@@ -7,12 +7,14 @@ Welcome to my digital playground! I'm passionate about making AI more accessible
 
 - Agentic evals and AI observability at scale at [Snowflake](https://www.snowflake.com/),
 - Trustworthy AI models and grounded agents for health at [Harvard T.H. Chan School of Public Health](https://hsph.harvard.edu) / [MIT CSAIL](https://www.csail.mit.edu/),
-  - `{ clinical trial/regulatory pipelines, public health resource allocation, spatio-temporal pandemic simulation, rare disease prediction, fairness in synthetic data generation, quantum sensor-based medical imaging }`
-- ML infrastructure for explainability and interpretability at [TruEra](https://truera.com),
+  - ```
+    { clinical trial/regulatory pipelines, public health resource allocation, spatio-temporal pandemic simulation, rare disease prediction, fairness in synthetic data generation, quantum sensor-based medical imaging }
+    ```
+- ML infrastructure for model explainability and interpretability at [TruEra](https://truera.com),
 - Developer education tools at [AWS](https://aws.amazon.com),
 - Digital accessibility curricula at [Impact Labs](https://www.impactlabs.io), and
 - Empowering local nonprofits and student orgs with technical solutions via [CS+Social Good](https://cssgunc.org).
 
-Want to talk? Reach out at `cnikhil` [dot] `vytla` [at] gmail [dot] com.
+Want to hire me? Reach out: `cnikhil` [dot] `vytla` [at] gmail [dot] com
 
-More about me: [nikhilvytla.com](https://nikhilvytla.com)
+Learn more about me: [nikhilvytla.com](https://nikhilvytla.com)
